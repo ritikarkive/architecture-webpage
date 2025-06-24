@@ -8,7 +8,8 @@ Fully responsive architect website using html, css and javascript.
 
 ## Screenshot
 
-![Screenshot (302)](![image](https://github.com/user-attachments/assets/c24cb4e4-2710-4a43-ad6f-eb47882a8120)
+![Screenshot (172)](https://github.com/user-attachments/assets/864a2bbc-da0e-43ef-a621-a8fb4f88108b)
+
 
 
 ## Demo
